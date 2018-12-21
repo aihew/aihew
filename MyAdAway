@@ -1,0 +1,281 @@
+﻿### MyAdAway，加#取消屏蔽 ###
+
+## MIUI
+#127.0.0.1 adv.sec.miui.com
+127.0.0.1 resolver.msg.xiaomi.net
+127.0.0.1 data.mistat.xiaomi.com
+127.0.0.1 t3.a.market.xiaomi.com
+127.0.0.1 o2o.api.xiaomi.com
+#生活黄页
+127.0.0.1 api.huangye.miui.com
+127.0.0.1 st.huangye.miui.com
+#应用商店
+127.0.0.1 resolver.gslb.mi-idc.com
+#垃圾清理
+127.0.0.1 beha.ksmobile.com
+#下载管理·下载热榜
+127.0.0.1 api.tw06.xlmc.sec.miui.com
+#米家有品
+127.0.0.1 shopapi.io.mi.com
+#WiFi是否可用
+#127.0.0.1 connect.rom.miui.com
+## MIUI 国内版
+#去广告
+127.0.0.1 api.ad.xiaomi.com
+127.0.0.1 sdkconfig.ad.xiaomi.com
+#自动更新
+127.0.0.1 update.miui.com
+## MIUI Global
+#NoAd
+127.0.0.1 globalapi.ad.xiaomi.com
+127.0.0.1 sdkconfig.ad.intl.xiaomi.com
+#NoUpdate
+127.0.0.1 update.intl.miui.com
+
+
+## UC浏览器广告
+#封面广告
+127.0.0.1 m.atm.youku.com
+#广告源
+127.0.0.1 adp.atm.youku.com
+127.0.0.1 clickc.admaster.com.cn
+127.0.0.1 count.atm.youku.com
+127.0.0.1 ems.youku.com
+127.0.0.1 fans.m.tmall.com
+127.0.0.1 ktd.m.cn.miaozhen.com
+127.0.0.1 r1.ykimg.com
+127.0.0.1 v.admaster.com.cn
+127.0.0.1 v2.reachmax.cn
+127.0.0.1 val.atm.youku.com
+127.0.0.1 yktd.m.cn.miaozhen.com
+#下载列表推荐
+127.0.0.1 server.m.pp.cn
+#软件更新
+127.0.0.1 puds.ucweb.com
+#LOG相关
+127.0.0.1 wgo.mmstat.com
+127.0.0.1 log.cs.pp.cn
+127.0.0.1 applog.uc.cn
+#去广告
+127.0.0.1 afpapi.alimama.com
+127.0.0.1 a.9game.cn
+127.0.0.1 track.uc.cn
+127.0.0.1 adtrack.ucweb.com
+127.0.0.1 utp-dmp.ucweb.com
+127.0.0.1 utp.ucweb.com
+#订阅号文章
+127.0.0.1 huichuan.sm.cn
+#UC头条广告
+127.0.0.1 ynuf.alipay.com
+127.0.0.1 pdds.ucweb.com
+127.0.0.1 js.union-wifi.com
+127.0.0.1 amdc.m.taobao.com
+127.0.0.1 www.qmlog.cn
+#网页尾部精品推荐
+127.0.0.1 cpu.baidu.com
+127.0.0.1 caclick.baidu.com
+127.0.0.1 rescn.u3.ucweb.com
+
+
+## 今日头条
+127.0.0.1 ad.toutiao.com
+127.0.0.1 clk.gentags.net
+127.0.0.1 dm.toutiao.com
+127.0.0.1 dm.pstatp.com
+127.0.0.1 dm.bytedance.com
+127.0.0.1 uop.umeng.com
+127.0.0.1 policy.jd.com
+127.0.0.1 kepler.jd.com
+127.0.0.1 bdsp.x.jd.com
+127.0.0.1 keplerapi.jd.com
+127.0.0.1 m.suning.com
+127.0.0.1 adshare.toutiao.com
+127.0.0.1 tunion-api.m.taobao.com
+#京东特供
+127.0.0.1 mapi.m.jd.com
+#头条封面
+127.0.0.1 s1.pstatp.com
+127.0.0.1 s2.pstatp.com
+127.0.0.1 s3.pstatp.com
+127.0.0.1 a3.pstatp.com
+127.0.0.1 a3.bytecdn.cn
+#检查更新
+127.0.0.1 ichannel.snssdk.com
+
+
+## WiFi万能钥匙广告
+127.0.0.1 app.51y5.net
+127.0.0.1 apiinit.amap.com
+127.0.0.1 c.51y5.net
+127.0.0.1 msg.push.51y5.net
+127.0.0.1 a.wkanx.com
+127.0.0.1 c.wkanx.com
+127.0.0.1 c1.wkanx.com
+127.0.0.1 ap.51y5.net
+127.0.0.1 dc.51y5.net
+127.0.0.1 push-dc.51y5.net
+127.0.0.1 news-log.51y5.net
+127.0.0.1 login.push.51y5.net
+#"连接"底部滚动广告
+127.0.0.1 news.51y5.net
+#连尚·发现
+127.0.0.1 cds.51y5.net
+#WiFi安全险
+127.0.0.1 insurance.lianwifi.com
+#百宝箱
+127.0.0.1 config.51y5.net
+127.0.0.1 static.wkanx.com
+
+
+## 微信
+127.0.0.1 zt.jd.com
+127.0.0.1 wq.jd.com
+
+
+## 铁路12306广告
+127.0.0.1 ad.12306.cn
+
+
+## 讯飞输入法广告
+127.0.0.1 ossp.voicecloud.cn
+127.0.0.1 bj.imp.voiceads.cn
+127.0.0.1 m.panda.voiceads.cn
+127.0.0.1 iflyad.bj.openstorage.cn
+
+
+## 掌阅iReader广告
+127.0.0.1 mad.ireader.com
+127.0.0.1 img.ad.zhangyue.com
+127.0.0.1 nocket.ireader.com
+127.0.0.1 sys.zhangyue.com
+127.0.0.1 domain02.zhangyue01.com
+127.0.0.1 domain01.zhangyue02.com
+127.0.0.1 domain01.zhangyue01.com
+#发现
+127.0.0.1 am.g.ireader.com
+127.0.0.1 view.mall.zhangyue.com
+#检查更新
+#127.0.0.1 cps.zhangyue.com
+#LOG相关
+127.0.0.1 log.z3.cn
+#PUSH更新
+127.0.0.1 push.zhangyue.com
+##getCoverPic
+#127.0.0.1 cps.zhangyue.com
+
+
+## IceBox自动更新
+127.0.0.1 file.1ittlecup.com
+
+
+## 中华万年历广告
+127.0.0.1 lkme.cc
+127.0.0.1 api.freed.so
+127.0.0.1 log-dmp.suishenyun.cn
+127.0.0.1 client-dmp.suishenyun.cn
+#我的
+127.0.0.1 pc.suishenyun.net
+#头条
+127.0.0.1 v0-client-lz.rili.cn
+
+
+## 搜狗输入法广告
+#127.0.0.1 get.sogou.com
+
+
+## WiFi密码查看器广告
+127.0.0.1 api.wandoujia.com
+
+
+## 掃雷王 & Sudoku World 广告
+127.0.0.1 cross.mobirix.net
+127.0.0.1 dzpu6za66svjl.cloudfront.net
+
+
+## 墨迹天气
+127.0.0.1 ad.api.moji.com
+127.0.0.1 v1.log.moji.com
+127.0.0.1 adash.man.aliyuncs.com
+127.0.0.1 av1.xdrig.com
+#“欢迎页”广告
+127.0.0.1 android.bugly.qq.com
+#“我”广告
+127.0.0.1 me.api.moji.com
+#墨迹资讯
+#127.0.0.1 fds.api.moji.com
+
+
+## ZAKER新闻
+127.0.0.1 ggs.myzaker.com
+
+
+## 喜马拉雅FM
+127.0.0.1 adse.ximalaya.com
+
+
+## 快牙
+127.0.0.1 rs.easemob.com
+127.0.0.1 net.rayjump.com
+127.0.0.1 api.dewmobile.net
+127.0.0.1 setting.rayjump.com
+127.0.0.1 analytics.rayjump.com
+
+
+## 闪传
+127.0.0.1 p.xender.com
+
+
+## 移动客户端
+127.0.0.1 a.appjiagu.com
+127.0.0.1 s.appjiagu.com
+127.0.0.1 api.share.mob.com
+
+
+## X浏览器
+127.0.0.1 api.m.baidu.com
+127.0.0.1 alog.umengcloud.com
+
+
+## 大姨吗
+127.0.0.1 a.dayima.com
+127.0.0.1 dataapi.yoloho.com
+
+
+## 快快查汉语字典
+127.0.0.1 adashx.m.taobao.com
+127.0.0.1 adashbc.m.taobao.com
+
+
+## 益动GPS自动升级
+127.0.0.1 appu.91.com
+
+
+##天下游
+127.0.0.1 www.txyapp.com
+
+
+#汽车之家
+127.0.0.1 adm3.autoimg.cn
+127.0.0.1 audid-api.taobao.com
+127.0.0.1 clickc.admaster.com.cn
+127.0.0.1 collectionpv.che168.com
+127.0.0.1 adproxy.autohome.com.cn
+127.0.0.1 applogapi.autohome.com.cn
+
+
+##XMind检测升级
+127.0.0.1 piwik.xmind.cn
+
+
+## 酷我音乐
+127.0.0.1 rich.kuwo.cn
+127.0.0.1 mobilead.kuwo.cn
+
+
+##CIBN聚精彩TV
+127.0.0.1 update.ott.cp61.ott.cibntv.net
+
+
+## 超级直播TV
+127.0.0.1 m.51168.tv
+127.0.0.1 down.52itv.cn
