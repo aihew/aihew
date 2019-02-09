@@ -150,18 +150,16 @@
 ## 掌阅iReader广告
 127.0.0.1 mad.ireader.com
 127.0.0.1 img.ad.zhangyue.com
-127.0.0.1 nocket.ireader.com
-127.0.0.1 sys.zhangyue.com
-127.0.0.1 book.d.zhangyue01.com
-127.0.0.1 domain02.zhangyue01.com
-127.0.0.1 domain02.zhangyue02.com
-127.0.0.1 domain01.zhangyue02.com
-127.0.0.1 domain01.zhangyue01.com
+#127.0.0.1 nocket.ireader.com
+#127.0.0.1 sys.zhangyue.com
+#127.0.0.1 book.d.zhangyue01.com
+#127.0.0.1 domain01.zhangyue01.com
+#127.0.0.1 domain02.zhangyue01.com
+#127.0.0.1 domain01.zhangyue02.com
+#127.0.0.1 domain02.zhangyue02.com
 #发现
 127.0.0.1 am.g.ireader.com
 127.0.0.1 view.mall.zhangyue.com
-#检查更新
-#127.0.0.1 cps.zhangyue.com
 #LOG相关
 127.0.0.1 log.z3.cn
 127.0.0.1 log.ireader.com
