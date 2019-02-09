@@ -31,6 +31,9 @@
 127.0.0.1 sdkconfig.ad.intl.xiaomi.com
 #NoUpdate
 127.0.0.1 update.intl.miui.com
+#NoAppUpdate
+127.0.0.1 global.market.xiaomi.com
+127.0.0.1 global.developer.xiaomi.com
 
 
 ## UC浏览器广告
@@ -125,6 +128,7 @@
 #百宝箱
 127.0.0.1 config.51y5.net
 127.0.0.1 static.wkanx.com
+127.0.0.1 config.y5en.com
 
 
 ## 微信
@@ -148,7 +152,9 @@
 127.0.0.1 img.ad.zhangyue.com
 127.0.0.1 nocket.ireader.com
 127.0.0.1 sys.zhangyue.com
+127.0.0.1 book.d.zhangyue01.com
 127.0.0.1 domain02.zhangyue01.com
+127.0.0.1 domain02.zhangyue02.com
 127.0.0.1 domain01.zhangyue02.com
 127.0.0.1 domain01.zhangyue01.com
 #发现
@@ -158,6 +164,7 @@
 #127.0.0.1 cps.zhangyue.com
 #LOG相关
 127.0.0.1 log.z3.cn
+127.0.0.1 log.ireader.com
 #PUSH更新
 127.0.0.1 push.zhangyue.com
 ##getCoverPic
@@ -250,11 +257,11 @@
 127.0.0.1 appu.91.com
 
 
-##天下游
+## 天下游
 127.0.0.1 www.txyapp.com
 
 
-#汽车之家
+## 汽车之家
 127.0.0.1 adm3.autoimg.cn
 127.0.0.1 audid-api.taobao.com
 127.0.0.1 clickc.admaster.com.cn
@@ -263,9 +270,9 @@
 127.0.0.1 applogapi.autohome.com.cn
 
 
-##XMind检测升级
-127.0.0.1 piwik.xmind.cn
+## XMind检测升级
 127.0.0.1 dl2.xmind.cn
+127.0.0.1 dl3.xmind.net
 
 
 ## 酷我音乐
@@ -273,7 +280,11 @@
 127.0.0.1 mobilead.kuwo.cn
 
 
-##CIBN聚精彩TV
+## 多开分身.微Fun
+127.0.0.1 wq.91ishare.cn
+
+
+## CIBN聚精彩TV
 127.0.0.1 update.ott.cp61.ott.cibntv.net
 
 
